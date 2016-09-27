@@ -1,0 +1,48 @@
+The actual integer value is :8
+TEST CASE 1 in function.
+Within the function, the beginning value is: 8
+Within the function, the changed value is: 9
+Test Case 1 in main.
+After the function call, the beginning value is: 8
+After the function call, the changed value is: 9
+TEST CASE 2 in function.
+Within the function, the beginning value is: 8
+Within the function, the changed value is: 9
+Test Case 2 in main.
+After the function call, the beginning value changed to: 9
+After the function call, the changed value is: 9
+TEST CASE 3.
+Before the function call the value is 8
+TEST CASE 3 in function.
+The original value in the function is : 8
+The original address in function is: 0x7fff70daf6f0
+The changed value in the function is: 9
+The changed address in the function is: 0x7fff70daf6f0
+After the function call the value is :9
+TEST CASE 4.
+The array before the call is: 
+1 2 3 4 5 
+Inside the function the original array is: 
+1 2 3 4 5 
+Inside the function the changed array is: 
+10 2 3 4 5 
+The array after the call is: 
+10 2 3 4 5 
+TEST CASE 5.
+My structure before the call is: 
+0 1 2 3 4 
+The structure of arrays of integers inside the functin is: 
+0 1 2 3 4 
+The changed struct within the function is: 
+5 1 2 3 4 
+My structure after the call is: 
+0 1 2 3 4 
+TEST CASE 6
+Struct before the call.
+0 1 2 3 4 
+The struct inside the function is: 
+0 1 2 3 4 
+The changed struct in function is: 
+5 1 2 3 4 
+Struct after the call
+5 1 2 3 4 

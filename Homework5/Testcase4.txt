@@ -1,0 +1,107 @@
+What is the first?
+5
+What is the second?
+5
+5 node is new!
+5 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+4
+What is the second?
+5
+4 node is new!
+5 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+1
+What is the second?
+2
+1 node is new!
+2 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+4
+What is the second?
+6
+4 is pre-existing.
+6 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+4
+What is the second?
+2
+4 is pre-existing.
+2 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+8
+What is the second?
+9
+8 node is new!
+9 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+1
+What is the second?
+7
+1 is pre-existing.
+7 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+2
+3 node is new!
+2 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+0
+What is the second?
+4
+0 node is new!
+4 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+7
+What is the second?
+8
+7 is pre-existing.
+8 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+9
+3 is pre-existing.
+9 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+2
+What is the second?
+8
+2 is pre-existing.
+8 is pre-existing.
+Do you want to add more to the list?
+n
+
+Node 0 successors are: 4
+Node 3 successors are: 9 2
+Node 7 successors are: 8
+Node 9 has no succesors.
+Node 8 successors are: 9
+Node 6 has no succesors.
+Node 2 successors are: 8
+Node 1 successors are: 7 2
+Node 4 successors are: 2 6 5
+Node 5 successors are: 5

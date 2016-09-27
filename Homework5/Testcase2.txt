@@ -1,0 +1,183 @@
+What is the first?
+1
+What is the second?
+2
+1 node is new!
+2 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+2
+What is the second?
+3
+2 is pre-existing.
+3 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+2
+What is the second?
+4
+2 is pre-existing.
+4 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+2
+3 is pre-existing.
+2 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+5
+3 is pre-existing.
+5 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+6
+3 is pre-existing.
+6 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+4
+What is the second?
+3
+4 is pre-existing.
+3 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+5
+What is the second?
+9
+5 is pre-existing.
+9 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+6
+What is the second?
+9
+6 is pre-existing.
+9 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+6
+What is the second?
+7
+6 is pre-existing.
+7 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+7
+What is the second?
+8
+7 is pre-existing.
+8 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+8
+What is the second?
+6
+8 is pre-existing.
+6 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+9
+What is the second?
+10
+9 is pre-existing.
+10 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+9
+What is the second?
+12
+9 is pre-existing.
+12 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+10
+What is the second?
+11
+10 is pre-existing.
+11 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+10
+What is the second?
+12
+10 is pre-existing.
+12 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+11
+What is the second?
+13
+11 is pre-existing.
+13 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+12
+What is the second?
+13
+12 is pre-existing.
+13 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+13
+What is the second?
+10
+13 is pre-existing.
+10 is pre-existing.
+Do you want to add more to the list?
+y
+What is the first?
+13
+What is the second?
+14
+13 is pre-existing.
+14 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+14
+What is the second?
+14
+14 is pre-existing.
+14 is pre-existing.
+Do you want to add more to the list?
+n
+
+Node 14 successors are: 14
+Node 13 successors are: 14 10
+Node 11 successors are: 13
+Node 12 successors are: 13
+Node 10 successors are: 12 11
+Node 8 successors are: 6
+Node 7 successors are: 8
+Node 9 successors are: 12 10
+Node 6 successors are: 7 9
+Node 5 successors are: 9
+Node 4 successors are: 3
+Node 3 successors are: 6 5 2
+Node 2 successors are: 4 3
+Node 1 successors are: 2

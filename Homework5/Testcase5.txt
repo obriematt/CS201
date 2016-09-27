@@ -1,0 +1,101 @@
+What is the first?
+1
+What is the second?
+2
+1 node is new!
+2 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+3
+What is the second?
+4
+3 node is new!
+4 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+5
+What is the second?
+6
+5 node is new!
+6 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+7
+What is the second?
+8
+7 node is new!
+8 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+9
+What is the second?
+10
+9 node is new!
+10 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+11
+What is the second?
+12
+11 node is new!
+12 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+13
+What is the second?
+14
+13 node is new!
+14 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+15
+What is the second?
+16
+15 node is new!
+16 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+17
+What is the second?
+18
+17 node is new!
+18 node is new!
+Do you want to add more to the list?
+y
+What is the first?
+19
+What is the second?
+20
+19 node is new!
+20 node is new!
+Do you want to add more to the list?
+n
+
+Node 20 has no succesors.
+Node 19 successors are: 20
+Node 18 has no succesors.
+Node 17 successors are: 18
+Node 16 has no succesors.
+Node 15 successors are: 16
+Node 14 has no succesors.
+Node 13 successors are: 14
+Node 12 has no succesors.
+Node 11 successors are: 12
+Node 10 has no succesors.
+Node 9 successors are: 10
+Node 8 has no succesors.
+Node 7 successors are: 8
+Node 6 has no succesors.
+Node 5 successors are: 6
+Node 4 has no succesors.
+Node 3 successors are: 4
+Node 2 has no succesors.
+Node 1 successors are: 2

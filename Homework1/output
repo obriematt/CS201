@@ -1,0 +1,28 @@
+The concatenated string is 12.055e1
+The floating point number is 1.205500e+02
+5 command line args passed. 
+arg 1 = "./a.out"
+arg 2 = "12.0"
+arg 3 = "55"
+arg 4 = "e"
+arg 5 = "1"
+envp[0] = "TERM=xterm"
+envp[1] = "SHELL=/bin/bash"
+envp[2] = "XDG_SESSION_COOKIE=228974559390478a3b6393ee53a25a40-1404181164.407222-954631491"
+envp[3] = "SSH_CLIENT=2601:7:a00:6e3:5cdd:874c:2f19:b3d 63229 22"
+envp[4] = "SSH_TTY=/dev/pts/5"
+envp[5] = "USER=matthewo"
+envp[6] = "MAIL=/var/mail/matthewo"
+envp[7] = "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+envp[8] = "PWD=/u/matthewo/cs201"
+envp[9] = "LANG=en_US.UTF-8"
+envp[10] = "ICEAUTHORITY=/tmp/.matthewo_ICEauthority"
+envp[11] = "SHLVL=1"
+envp[12] = "HOME=/u/matthewo"
+envp[13] = "LOGNAME=matthewo"
+envp[14] = "SSH_CONNECTION=2601:7:a00:6e3:5cdd:874c:2f19:b3d 63229 2610:10:20:208::103 22"
+envp[15] = "_=./a.out"
+envp[16] = "OLDPWD=/u/matthewo"
+Number of environment variables = 17
+Here is the PATH= variable again
+envp[7] = "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
